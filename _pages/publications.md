@@ -8,12 +8,15 @@ redirect_from:
 
 {% include base_path %}
 
+<style>
+   .center { display: block; margin-left: auto; margin-right: auto; width: 50%; } 
+</style>
 
 <a href="https://www.nature.com/nature/volumes/645/issues/8079">
   <img src="/images/nature_cover.png" alt="Rhythm and Blooms" width="250" class="center">
 </a>
 
-***CLICK LINKS BELOW FOR PDF***
+***CLICK LINKS FOR PDFS***
 
 - **Terasaki Hart, D. E.**, Bùi, T. N., Di Maggio, L., & Wang, I. J. (2025). *Global phenology maps reveal the drivers and effects of seasonal asynchrony.* [Nature](../files/terasaki_hart_2025_global_phenology_maps.pdf), 1-8. [Cover article]
 - Pappo, E., Cook-Patton, S., Beillouin, D., Cardinael, R., Cesario, F., Culbertson, K., Griffey, V., Hall, J., Sprenkle-Hyppolite, S., Lovdal, A., Melikov, C., Rosenstock, T. S., Steward, P., **Terasaki Hart, D. E.**, & Bennett, R. (2025). *Carbon payment strategies in coffee agroforests shape climate and biodiversity outcomes.* [Communications Earth & Environment](../files/pappo_2025_carbon_payment_in_coffee_agroforests.pdf), 6(1), 661.
