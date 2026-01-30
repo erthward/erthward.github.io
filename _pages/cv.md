@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-***Full CV available for download [here](/files/terasaki_hart_cv.pdf)***
+***[full CV available as a PDF](/files/terasaki_hart_cv.pdf)***
 
 -----------------------------------------
 
@@ -55,15 +55,3 @@ Languages
 * French (basic)
 * Portuguese (basic)
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-Media
-======
-  <ul>{% for post in site.media reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
- 

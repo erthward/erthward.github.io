@@ -14,8 +14,8 @@ main:
   - title: "papers"
     url: /publications/
   
-  - software: "software"
-    url: /software/
+  #- software: "software"
+  #  url: /software/
 
   #- title: "teaching"
   #  url: /teaching/    
