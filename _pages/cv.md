@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,7 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
+
 ***Full CV available for download [here](/files/terasaki_hart_cv.pdf)***
+
+-----------------------------------------
+
+
 
 Education
 ======
