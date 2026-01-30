@@ -11,35 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Environmental Science, Policy, and Management, UC Berkeley (2022)
+* M.S. in Sustainable Development and Conservation Biology, University of Maryland (2015)
+* B.S. in Ecology and Natural Resources, Rutgers University, *summa cum laude* (2011)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* October 2023 - present:
+  * Ecologist and data analyst, CSIRO (Brisbane, QLD, Australia)
+  * Work on the National Koala Monitoring Program, the Nature Repair Market, and a TERN-sponsored biodiversity modeling project
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* January 2021 - August 2023:
+  * Computational ecologist, The Nature Conservancy (Arlington, VA, USA)
+  * Work on agroforestry and reforestation as natural climate solutions
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2015 - December 2022:
+  * PhD student and Graduate Teaching Assistant, UC Berkeley (Berkeley, CA, USA)
+  * Dissertation work on landscape genomics and evolutionary biogeography; teaching courses on climate change ecology, landscape ecology, and statistics
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* ecology
+* evolutionary biology
+* genomics
+* global change biology
+* conservation
+* environmental policy
+* scientific computing
+* statistics
+* simulation modeling
+* teaching
 
 Publications
 ======
@@ -59,6 +60,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
