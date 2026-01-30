@@ -9,7 +9,7 @@ redirect_from:
 {% include base_path %}
 
 <style>
-   .center { display: block; margin-left: auto; margin-right: auto; width: 25%; } 
+   .center { display: block; margin-left: auto; margin-right: auto; width: 32%; } 
 </style>
 
 <a href="https://www.nature.com/nature/volumes/645/issues/8079">
