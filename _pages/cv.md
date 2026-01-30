@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-***Full CV available for download [here](/files/ files/terasaki_hart_cv.pdf)***
+***Full CV available for download [here](/files/terasaki_hart_cv.pdf)***
 
 Education
 ======
