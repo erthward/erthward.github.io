@@ -9,16 +9,9 @@ redirect_from:
 {% include base_path %}
 
 
-
-<img src="/images/nature_cover.png" alt="Rhythm and Blooms" width="250" class="center">
-
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-
+<a href="https://www.nature.com/nature/volumes/645/issues/8079">
+  <img src="/images/nature_cover.png" alt="Rhythm and Blooms" width="250" class="center">
+</a>
 
 ***CLICK LINKS BELOW FOR PDF***
 
