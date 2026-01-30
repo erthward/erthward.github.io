@@ -32,7 +32,7 @@ I then map the global pattern and drivers of phenological asynchrony (finding ho
 -------------------------------------------------------------------------
 
 
-## landscape genomics, global change, and complex simulation
+## landscape genetics, global change, and simulation
 
 The future of biodiversity depends, in part, on the dynamics and effectiveness of evolutionary responses to global change. Predicting these responses requires understanding a wildly complex system: the population genomics of species that are unevenly distributed across changing landscapes. This challenge is compounded by the large spatial scales and timespans at which the dynamics we are interested in often play out.
 
@@ -54,7 +54,7 @@ I built `Geonomics` to study an otherwise intractable question: How do species' 
 
 -------------------------------------------------------------------------
 
-## land use, species management, and conservation
+## land use, biodiversity, and conservation
 We are overhauling the biosphere faster than we can understand it. I have a vested interest in its future. I address this concern through applied research in conservation and global change ecology, delivering targeted insight to support land management.
 
 Some of this work has focused on agroforestry. Agroforestry, in short, is the practice of growing trees and non-tree agricultural products on the same piece of land. It's really just a highfalutin term for how much of agriculture has probably looked in most places and societies, for thousands of years. But tree cover has become less common across much of the world's agricultural lands, not least because of the tendency of modern agricultural practices to plow 'fencerow to fencerow' in the obsessive pursuit of productivity and profit. The environmental costs of this approach to making food and fiber, though still largely economically externalized, will be news to nobody -- soil erosion, biodiversity loss, food insecurity, water pollution, climate change, and the like. The good news is that adoption and expansion of agroforestry could work to counter these trends. Agroforestry systems are multifunctional ecosystems that can often provide numerous environmental and economic benefits (though not always! context is key!). 
