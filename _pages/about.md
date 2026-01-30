@@ -9,9 +9,9 @@ redirect_from:
 
 **I study nature.**
 
-I have broad experience in ecology, evolutionary biology, genetics, conservation, geography, statistics, computer science, environmental policy, agriculture, and sustainable development. I try to read widely, think inventively, and chase big, imaginitive, odd, and intriguingly complex notions, wherever they might lead. My work is motivated, in equal parts, by a love of natural history, a proclivity for abstract reasoning and theory, an aesthetic obsession with quantification, an ethical commitment to human-centered conservation, and a passion for teaching and sharing. While I have no aversion to collecting data (in fact, I quite enjoy it!), I've often found that unnecessary, given that many of the questions I think about can be approached with the large quantity and rich diversity of data that can be 'found' (i.e., sourced from remote sensing, previous publications, and other public datasets) or 'made' (i.e., simulated -- which typically enables geographic and temporal coverage, biological complexity, and statistical replication *in silico* that far exceed what is practical *in carbone*).
+I have broad experience in ecology, evolutionary biology, genetics, conservation, geography, statistics, computer science, environmental policy, agriculture, and sustainable development. I try to read widely, think creatively, and chase big, imaginitive, odd, and intriguingly complex notions, wherever they might lead. My work is motivated, in equal parts, by a love of natural history, a proclivity for abstract reasoning and theory, an aesthetic obsession with quantification, an ethical commitment to human-centered conservation, and a passion for teaching and sharing. While I have no aversion to collecting data (in fact, I quite love it!), I've often found it unnecessary, given that many of the questions I tend to think about can be approached with the rich diversity of data that can be 'found' (i.e., public databases, remote sensing imagery, literature-locked measurements, and other open resources) or 'made' (i.e., simulated -- which enables geographic and temporal coverage, biological complexity, and statistical replication *in silico* that far exceed what is practical *in carbone*).
 
-I also really, really like pizza.
+I also really like pizza.
 
 Pizza. And tacos.
 

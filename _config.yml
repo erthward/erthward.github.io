@@ -12,7 +12,7 @@ site_theme               : "default"
 title                    : "Drew Terasaki Hart"
 title_separator          : "-"
 name                     : &name "Drew Terasaki Hart"
-description              : &description "evolutionary biogeography, global change biology, conservation ecology, scientific computing"
+description              : &description "landscape ecology, evolutionary biogeography, global change biology, conservation science, scientific computing"
 url                      : https://erthward.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "erthward.github.io"
@@ -25,7 +25,7 @@ author:
   avatar           : "gavilan_porch_crop.jpg"
   name             : "Drew Terasaki Hart"
   pronouns         : "he, él"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "landscape ecologist, evolutionary biogeographer, global change biologist, conservation scientist, failed farmer"
   location         : "Brisbane, Australia"
   employer         : "CSIRO"
   uri              : "erthward.github.io"
@@ -79,12 +79,14 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
-    title: 'Books'
+  #books:
+  #  title: 'Books'
   manuscripts:
     title: 'Papers'
-  conferences:
-    title: 'Talks'
+  #conferences:
+  #  title: 'Talks'
+  media:
+    title: "Media"
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
