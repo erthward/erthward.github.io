@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-***[full CV available as PDF](/files/terasaki_hart_cv.pdf)***
+***[download full CV as PDF](/files/terasaki_hart_cv.pdf)***
 
 -----------------------------------------
 
