@@ -1,11 +1,14 @@
 ---
-permalink: /projects/
 title: ""
 author_profile: true
 redirect_from: 
   - /projects/
   - /projects.html
 ---
+
+{% include base_path %}
+
+
 
 ## seasonality, phenology, and evolutionary biogeography
 
@@ -38,14 +41,14 @@ Simulation is a critical tool for insight into complex systems, but landscape ge
 ***NOTE:*** *I'm always happy to chat with and support potential users, so do get in touch!*
 
 ![simple conceptual diagram showing how Geonomics operates](images/gnx_conceptual_diagram.png)
-*Conceptual diagram showing how Geonomics is strucutred and what it does. The model simulates individuals (here shown as spheres) of a species, distributed across a landscape, and each carrying its own genome. The landscape is defined as a stack of raster grids representing important environmental factors. Some environmental factors can exert natural selection on individuals' traits, such as the top landscape grid shown here. Others can influence the carrying capacity (i.e., local population size) and/or movement behavior of the species, such as the bottom grid shown here. The model simulates any number of time steps, during which individuals can move (shown here in the top left corner); individuals can find mates, combine their genes and reproduce, and disperse offspring (top right); individuals can die from natural selection and/or density dependence (bottom right); and then the environment could be programmed to change (bottom left). After enough time steps of a model, spatial patterns of genetic diversity build up. We can use those patterns to explore how landscape genetics likely works on real landscapes and to make inferences about the processes likely driving patterns we observe in real-world data.*
+*Conceptual diagram showing how Geonomics is strucutred and what it does. The model simulates individuals (here shown as spheres) of a species, distributed across a landscape, and each carrying its own genome. The landscape is defined as a stack of raster grids representing important environmental factors. Some environmental factors can exert natural selection on individuals' traits, such as the top landscape grid shown here. Others can influence the carrying capacity (i.e., local population size) and/or movement behavior of the species, such as the bottom grid shown here. The model simulates any number of time steps, during which individuals can move (shown here in the top left corner); individuals can find mates, combine their genes and reproduce, and disperse offspring (top right); individuals can die from natural selection and/or density dependence (bottom right); then the environment could be programmed to change (bottom left). After enough time steps of a model, spatial patterns of genetic diversity build up. We can use those patterns to explore how landscape genetics likely works on real landscapes and to make inferences about the processes likely driving patterns we observe in real-world data.*
 
 
 I built `Geonomics` to study an otherwise intractable question: How do species' evolutionary responses to climate change depend on the number and organization of the genes that control their climate-adapted traits? Climate change can change the geographic patterns of different environmental factors (e.g., temperature versus precipitation) in different ways, shifting the optimum trait combinations that occur across a landscape (as shown in the conceptual diagram below) and thus driving complex evolutionary changes that software such as `Geonomics` is ideally suited to understand. My findings suggest that genomic architecture -- that is, the number and physical arrangement of genes within the genome -- could control adaptation to climate change in ways that are important for efforts to manage genetic diversity. This poses the challenging question of how best to determine or predict the genomic architecture of relevant traits in real species of conservation concern. We published this work in [Global Change Biology](https://onlinelibrary.wiley.com/doi/10.1111/gcb.17179).
 
 
 ![conceptual diagram of the shifting adaptive landscapes under climate change](images/genarch_and_climate_change_conceptual_diagram.png)
-*Our conceptual framework for simulation of adaptation to climate change. Between times t1 and t2, one environmental gradient (e1) on the physical landscape (top) shifts at a different rate than does the other (e2). This causes novel environments to emerge at various geographic locations (x1,2,3), shifting adaptive peaks across the fitness landscape (bottom).*
+*Our conceptual framework for simulation of adaptation to climate change. Between times t1 and t2, one environmental gradient (e1) on the physical landscape (left) shifts at a different rate than does the other (e2). This causes novel environments to emerge at various geographic locations (x1,2,3), shifting adaptive peaks across the fitness landscape (right).*
 
 
 
