@@ -10,8 +10,14 @@ redirect_from:
 
 
 
-<img class="center-image" src="/images/nature_cover.png" alt="Rhythm and Blooms" width="250">
+<img src="/images/nature_cover.png" alt="Rhythm and Blooms" width="250" class="center">
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
 - **Terasaki Hart, D. E.**, Bùi, T. N., Di Maggio, L., & Wang, I. J. (2025). *Global phenology maps reveal the drivers and effects of seasonal asynchrony.* [Nature](../files/terasaki_hart_2025_global_phenology_maps.pdf), 1-8. [Cover article]
 - Pappo, E., Cook-Patton, S., Beillouin, D., Cardinael, R., Cesario, F., Culbertson, K., Griffey, V., Hall, J., Sprenkle-Hyppolite, S., Lovdal, A., Melikov, C., Rosenstock, T. S., Steward, P., **Terasaki Hart, D. E.**, & Bennett, R. (2025). *Carbon payment strategies in coffee agroforests shape climate and biodiversity outcomes.* [Communications Earth & Environment](../files/pappo_2025_carbon_payment_in_coffee_agroforests.pdf), 6(1), 661.
 - Fesenmyer, K. A., Poor, E. E., **Terasaki Hart, D. E.**, Veldman, J. W., Fleischman, F., Choksi, P., Archibald, S., Armani, M., Fagan, M. E., Fricke, E. C., Terrier, C., Hasler, N., Williams, C. A., Ellis, P. W., & Cook-Patton, S. C. (2025). *Addressing critiques refines global estimates of reforestation potential for climate change mitigation.* [Nature communications](../files/fesenmyer_2025_addressing_critiques_refines_global_estimates_of_reforestation_potential.pdf), 16(1), 4572.
