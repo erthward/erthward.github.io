@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+***Full CV available for download [here](/files/ files/terasaki_hart_cv.pdf)***
+
 Education
 ======
 * Ph.D in Environmental Science, Policy, and Management, UC Berkeley (2022)
@@ -28,19 +30,25 @@ Work experience
 * August 2015 - December 2022:
   * PhD student and Graduate Teaching Assistant, UC Berkeley (Berkeley, CA, USA)
   * Dissertation work on landscape genomics and evolutionary biogeography; teaching courses on climate change ecology, landscape ecology, and statistics
-  
+ 
 Skills
 ======
 * ecology
 * evolutionary biology
-* genomics
-* global change biology
+* population genomics
 * conservation
 * environmental policy
 * scientific computing
 * statistics
-* simulation modeling
 * teaching
+ 
+Languages
+======
+* English (native fluent)
+* Spanish (fluent)
+* Japanese (intermediate)
+* French (basic)
+* Portuguese (basic)
 
 Publications
 ======
@@ -54,15 +62,3 @@ Media
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  

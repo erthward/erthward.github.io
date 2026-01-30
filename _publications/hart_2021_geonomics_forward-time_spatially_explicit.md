@@ -8,6 +8,6 @@ date: 2022-06-12
 venue: 'Molecular Biology and Evolution'
 paperurl: 'http://erthward.github.io/files/hart_2021_geonomics_forward-time_spatially_explicit.pdf'
 bibtexurl: 'http://erthward.github.io/files/hart_2021_geonomics_forward-time_spatially_explicit.bib'
-citation: 'Terasaki Hart, D. E., Bishop, A. P., & Wang, I. J. (2021). &quot;Geonomics: forward-time, spatially explicit, and arbitrarily complex landscape genomic simulations.&quot; <i>Molecular biology and evolution</i>, 38(10), 4634-4646.'
+citation: 'Terasaki Hart, D. E., Bishop, A. P., & Wang, I. J. (2021). &quot;Geonomics: forward-time, spatially explicit, and arbitrarily complex landscape genomic simulations.&quot; <i>Molecular Biology and Evolution</i>, 38(10), 4634-4646.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
