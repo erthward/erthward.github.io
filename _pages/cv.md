@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<center><p style="color:#f76a23; font-weight:bold"><a href='/files/terasaki_hart_cv.pdf'>PDFS AVAILABLE AT LINKS BELOW</a></p></center>
+<center><p style="color:#f76a23; font-weight:bold"><a href='/files/terasaki_hart_cv.pdf'>FULL CV AVAILABLE FOR DOWNLOAD</a></p></center>
 
 
 -----------------------------------------
@@ -56,3 +56,10 @@ Languages
 * French (basic)
 * Portuguese (basic)
 
+Skateboard tricks
+=======
+* ollie
+* kickflip
+* boardslide (sort of)
+* 180-flip (twice)
+* broken rib (only once)
