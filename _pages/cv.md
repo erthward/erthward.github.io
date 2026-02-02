@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-<center><p style="color:#f76a23; font-weight:bold"><a href='/files/terasaki_hart_cv.pdf'>FULL CV AVAILABLE FOR DOWNLOAD</a></p></center>
+<p style="color:#f76a23; font-weight:bold"><a href='/files/terasaki_hart_cv.pdf'>DOWNLOAD FULL CV</a></p>
 
 
 -----------------------------------------
