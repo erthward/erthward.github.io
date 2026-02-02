@@ -7,10 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-<figure>
-   <img src='images/SUPP_VID_1_scaled_NIRv_LSP_phenocycles_300dpi.gif', alt='lava lamp'>
-   <figcaption>Average ecosystem seasonality patterns. Each pixel cycles between its own minimum (tan) and maximum (dark green), to emphasize spatial variation in timing.</figcaption>
-</figure>
+![lava lamp]('images/SUPP_VID_1_scaled_NIRv_LSP_phenocycles_300dpi.gif')
+*Average terrestrial ecosystem seasonality. Making each pixel cycle between its own minimum (tan) and maximum (dark green) emphasizes the complex geography of seasonal timing, irrespective of geographic differences in plant productivity.*
 
 **Landscapes are complex, both in space *and in time.*** In ecological science we often get away with swallowing temporal complexity into long-term averages and assumptions of 'stationarity' (that is, assumptions that the environment is static). But interesting and important dynamics sometimes hide behind these oversimplifications. I seek out these blind spots, to ask how complex space-time landscape patterns structure the ecological and evolutionary processes that generate, distribute, and maintain biodiversity.
 
@@ -18,7 +16,7 @@ redirect_from:
 
 **I'm an interdisciplinary scientist.** I have broad training: ecology, evolutionary biology, genetics, conservation, geography, statistics, computer science, environmental policy, agriculture, sustainable development. I try to read widely, think freely, and use creative problem-solving to chase big, imaginitive, and intriguing ideas, wherever they might lead me. I am motivated, in equal parts, by a passion for natural history, an predilection for abstract reasoning, a devotion to human-centered conservation, and a compulsion to share and to teach.
 
-**I'm a... *`sigh`*... data scientist.** I have no aversion to fieldwork. (In fact, I quite love it!) But the sorts of questions I wonder about can often be addressed using data we already have at arm's reach. A lot of data can be found -- e.g., public databases, remote sensing imagery, literature-locked measurements, et cetera. Some data can made -- that is, simulated. The biggest challenge in using these data is the complex computational tools that are needed to wring meaning out of them. Thus (to my occasional chagrin) I specialize in environmental data science. Lucky for me, I like playing with computers. Unlucky for me, computers don't like playing outside.
+**I'm a... *`sigh`*... data scientist.** I have no aversion to fieldwork. (In fact, I quite love it!) But the sorts of questions I wonder about can often be addressed using data we already have at arm's reach. A lot of data can be 'found' -- e.g., public databases, remote sensing imagery, literature-locked measurements, et cetera. Some data can be 'made' -- i.e., simulated. The biggest challenge in using these data is the complex suite of computational tools that are needed to wring meaning out of them. Thus (to my occasional chagrin) I have become an environmental data scientist. Lucky for me, I love playing with computers. Unlucky for me, computers don't like playing outside.
 
 
 ------------------------------------------------
