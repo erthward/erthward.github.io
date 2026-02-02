@@ -10,6 +10,7 @@ redirect_from:
 
 
 ![lava lamp](images/SUPP_VID_1_scaled_NIRv_LSP_phenocycles_300dpi.gif)
+
 <small>*Average terrestrial ecosystem seasonality. Making each pixel cycle between its own minimum (tan) and maximum (dark green) emphasizes the complex geography of seasonal timing, irrespective of geographic differences in plant productivity.*</small>
 
 **Landscapes are complex, both in space *and in time.*** In ecological science we often get away with swallowing temporal complexity into long-term averages and assumptions of 'stationarity' (that is, assumptions that the environment is static). But interesting and important dynamics sometimes hide behind these oversimplifications. I seek out these blind spots, to ask how complex space-time landscape patterns structure the ecological and evolutionary processes that generate, distribute, and maintain biodiversity.
