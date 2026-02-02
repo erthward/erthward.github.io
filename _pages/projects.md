@@ -29,7 +29,8 @@ I then map the global pattern and drivers of phenological asynchrony (finding ho
 
 (***NOTE:*** *If you're interested in pursuing any of those then please reach out!*)
 
--------------------------------------------------------------------------
+
+<hr size='14'>
 
 
 # landscape genetics, global change, and simulation
@@ -52,7 +53,8 @@ I built `Geonomics` to study an otherwise intractable question: How do species' 
 
 
 
--------------------------------------------------------------------------
+<hr size='14'>
+
 
 # land use, biodiversity, and conservation
 We are overhauling the biosphere faster than we can understand it. I have a vested interest in its future. I address this concern through applied research in conservation and global change ecology, delivering targeted insight to support land management.
