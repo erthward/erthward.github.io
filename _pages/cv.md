@@ -61,5 +61,5 @@ Skateboard tricks
 * ollie
 * kickflip
 * boardslide (sort of)
-* 180-flip (twice)
-* broken rib (only once)
+* 180-flip (once)
+* broken rib (once)
