@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# <span style="color:#c7045c">Where of When Lab (WoWLab)</span>
+# <span style="color:#0b6e04">Where of When Lab (WoWLab)</span>
 
 
 
