@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-# <span style="color:#0b6e04">Where of When Lab (WoWLab)</span>
-
+<h1 style="color:#1ab042" align="center">Where of When Lab (WoWLab)</h1>
 
 
 ![lava lamp](images/SUPP_VID_1_scaled_NIRv_LSP_phenocycles_300dpi.gif)
