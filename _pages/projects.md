@@ -16,7 +16,7 @@ Seasonality is a fundamental feature of Earth. It controls the annual rhythms, o
 
 I am working to change this. I developed a simple, globally consistent method for modeling the average seasonal phenology of terrestrial ecosystems worldwide. The results paint an unprecedented portrait of the global diversity of seasonality (shown below; you can explore this map using this [data viewer](https://lyrical-ring-231401.projects.earthengine.app/view/globalphenologicaldiversityandasynchronyterasakihart2024)!). This reveals global regions where seasonality can be quite out of sync between nearby sites -- mainly in tropical mountains and across Mediterranean climates and their neighboring deserts. Across these regions, I find that the global phenology map predicts asynchronous breeding time in various plant and animal species, and even the patterns of genetic diversity that likely result from reduced gene flow between out-of-sync breeding populations.
 
- This work was featured on the cover of [Nature](https://www.nature.com/articles/s41586-025-09410-3). It suggests promising avenues to insight across various fields of study -- many of which form the backbone of my current research program.
+ This work was featured on the cover of [Nature](https://www.nature.com/articles/s41586-025-09410-3). It opens numerous avenues to new scientific insight, many of which form the backbone of my current research program.
 
 
 ![global phenological diversity](/images/global_phen_div.png)
@@ -35,8 +35,8 @@ To address this, I developed [`Geonomics`](https://geonomics.readthedocs.io/en/l
 I published a paper in [Molecular Biology and Evolution](https://academic.oup.com/mbe/article/38/10/4634/6297222) that describes, validates, and demonstrates how it works. The conceptual diagram below gives a quick overview, and this [talk from the 2022 Evolution conference](https://youtu.be/XZNYGJEZNnA?si=-elzwREOPqt4w59h) offers a quick tutorial. (** *NOTE*: If you're interested in using Geonomics and would like help getting statrted, please reach out!)
 
 
-![simple conceptual diagram showing how Geonomics operates](/images/gnx_conceptual_diagram.png)
-
+<img src="/images/gnx_conceptual_diagram.png" width="50%">
+ 
 <small>*Conceptual diagram showing how Geonomics is strucutred and what it does. The model simulates individuals (here shown as spheres) of a species, distributed across a landscape, and each carrying its own genome. The landscape is defined as a stack of raster grids representing important environmental factors. Some environmental factors can exert natural selection on individuals' traits, such as the top landscape grid shown here. Others can influence the carrying capacity (i.e., local population size) and/or movement behavior of the species, such as the bottom grid shown here. The model simulates any number of time steps, during which individuals can move (shown here in the top left corner); individuals can find mates, combine their genes and reproduce, and disperse offspring (top right); individuals can die from natural selection and/or density dependence (bottom right); then the environment could be programmed to change (bottom left). After enough time steps of a model, spatial patterns of genetic diversity build up. We can use those patterns to explore how landscape genetics likely works on real landscapes and to make inferences about the processes likely driving patterns we observe in real-world data.*</small>
 
 
