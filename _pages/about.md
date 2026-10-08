@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="color:#1ab042" align="center">Where of When Lab (WoWLab)</h1>
+<h1 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 700; color:#1ab042" align="center">Where of When Lab (WoWLab)</h1>
 
 
 ![lava lamp](images/SUPP_VID_1_scaled_NIRv_LSP_phenocycles_300dpi.gif)
