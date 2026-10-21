@@ -54,7 +54,10 @@ I've been fortunate to live and work in many places throughout my life. Adventur
 ### Language learning
 
 I am also passionate about the mind-opening experience of language learning. 
-Japanese, in particular, has been a long, slow, revelatory process. Since I've been asked many times, here my's curated list of favorite resources:
+
+Japanese, in particular, has been a long, slow, revelatory process.
+
+Since I've been asked many times, here a curated list of my favorite resources:
 
 
 <ul class="resource-list">
