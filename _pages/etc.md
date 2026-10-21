@@ -30,33 +30,37 @@ author_profile: false
 <!-- LEFT PHOTOS: copy a line to add a photo, delete a line to remove one.
      Put the image files in /images/etc/ -->
 <div class="etc-col">
+<img src="/images/photos/boy_in_tree.png" alt="boy in tree; somewhere in MAD">
 <img src="/images/photos/water_tank_portrait.jpg" alt="water tank portrait; Oaxaca, MEX">
 <img src="/images/photos/space_needle_portrait.jpg" alt="space needle portrait; Seattle, WA, USA">
-<img src="/images/photos/boy_in_tree.png" alt="boy in tree; somewhere in MAD">
 <img src="/images/photos/diesel_fried_chicken.jpg" alt="disel fried chicken; somewhere in TX, USA">
-<img src="/images/photos/tacos_de_cabeza.jpg" alt="tacos de cabeza; Oaxaca, MEX">
 <img src="/images/photos/car_and_tree.jpg" alt="car and tree; somewhere in NIC">
+<img src="/images/photos/tacos_de_cabeza.jpg" alt="tacos de cabeza; Oaxaca, MEX">
 <img src="/images/photos/guitar_and_strings.png" alt="guitar and strings; Cadiz, ESP">
 <img src="/images/photos/self_portrait.jpg" alt="self portrait; Tucson, AZ, USA">
+<img src="/images/photos/rolling_still_life.jpg" alt="bike trip, still life; somewhere in PA, USA">
 </div>
 
 <!-- CENTER TEXT (markdown works in here) -->
 <div class="etc-col etc-center" markdown="1">
 
-Other stuff I do
+The rest of my life
 ======
-I've been fortunate to live and work in many places throughout. Adventure and happenstance have played formative roles in my life. The photos here capture a few of the many moments.
+In my free time, I love to run and hike, play soccer (very poorly), play with my family, naturalize and birdwatch, read books, listen to music, cook, and generally explore and experience the world.
 
-I love to run and hike, naturalize and birdwatch, read, cook, and generally explore and experience the world.
+I've been fortunate to live and work in many places throughout my life. Adventure and happenstance have played very important formative roles in my life. The photos here attempt to capture a few of the many meaningful moments.
+
+
+### Language learning
 
 I am also passionate about the mind-opening experience of language learning. 
-Japanese, in particular, has been a long, slow, revelatory process. For anyone who might be interested, here are a few curated resources:
+Japanese, in particular, has been a long, slow, revelatory process. Since I've been asked many times, here my's curated list of favorite resources:
 
 
 <ul class="resource-list">
-<li> <img src="/images/kanji_study_logo.png" alt=""> <span><strong><a href="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy">Kanji Study app</a></strong>: Phenomenal dictionary and study app (for Android). (Bonus: Add tegaki keyboard to your phone and you can draw kanji you don't know to search them. Good fun.)</span> </li>
+<li> <img src="/images/kanji_study_logo.png" alt=""> <span><strong><a href="https://play.google.com/store/apps/details?id=com.mindtwisted.kanjistudy">Kanji Study app</a></strong>: Phenomenal dictionary and study app (for Android). (Bonus: Add tegaki keyboard to your phone so you can directly search new kanji by drawing. Good fun.)</span> </li>
 <li> <img src="/images/tae_kim_book_cover.png" alt=""> <span><strong><a href="https://www.guidetojapanese.org/grammar_guide.pdf">Tae Kim's Japanese grammar guide</a></strong>: I read this cover to cover multiple times when I first started learning Japanese. Quick, practical framework for understanding how the language is put together.</span> </li>
-<li> <img src="/images/suiran_logo.png" alt=""> <span><strong><a href="https://erthward.github.io/suiran">Suiran</a></strong>: For years, I've wanted but never found a minimalist app that behaves as closely as possible like actual paper flashcards. So I recently vibe-coded for the first time to make 翠嵐. It makes it super easy to add new vocab as it comes up in daily life, by searching in either either English or Japanese; review your running list; and quiz as much as you want, whenever you want, as long as you want. Vocab list and quiz data save locally in your browser cache, and it can be installed to your phone's homescreen from your browser so it looks and feels like a real app. (***NOTE***: If you plan to use this then please contact me so I can make sure it doesn't overload my free Deno proxy that it currently uses!)</span> </li>
 <li> <img src="/images/japanese_short_stories_cover.png" alt=""> <span><strong><a href="https://www.penguin.com.au/books/short-stories-in-japanese-9780143118336">Michael Emmerich's Japanese short stories in parallel text</a></strong>: I stumbled upon this book while waiting for a bus in Fukuoka. It remains the most fun and useful resource I've found for learning to parse and understand Japanese syntax in context.</span> </li>
+<li> <img src="/images/suiran_logo.png" alt=""> <span><strong><a href="https://erthward.github.io/suiran">Suiran</a></strong>: Over the years, I've never found a simple thing I've wanted: a minimalist app that behaves as closely as possible to actual paper flashcards. So I finally made it. (***NOTE***: If you plan to use this then contact me for details... And so I can make sure we don't overload my free Deno proxy that it currently depends on!)</span> </li>
 
 
