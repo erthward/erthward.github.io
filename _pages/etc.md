@@ -37,7 +37,7 @@ author_profile: false
 <img src="/images/photos/tacos_de_cabeza.jpg" alt="tacos de cabeza; Oaxaca, MEX">
 <img src="/images/photos/car_and_tree.jpg" alt="car and tree; somewhere in NIC">
 <img src="/images/photos/guitar_and_strings.png" alt="guitar and strings; Cadiz, ESP">
-<img src="/images/photos/self_portrat.jpg" alt="self portrait; Tucson, AZ, USA">
+<img src="/images/photos/self_portrait.jpg" alt="self portrait; Tucson, AZ, USA">
 </div>
 
 <!-- CENTER TEXT (markdown works in here) -->
