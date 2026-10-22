@@ -53,11 +53,9 @@ I've been fortunate to live and work in many places throughout my life. Adventur
 
 ### Language learning
 
-I am also passionate about the mind-opening experience of language learning. 
+I am also passionate about the mind-opening experience of language learning. I've learned Spanish, Japanese, French, Portuguese, and others, to varying degrees, at varying points in my life.
 
-Japanese, in particular, has been a long, slow, revelatory process.
-
-Since I've been asked many times, here a curated list of my favorite resources:
+Japanese, in particular, has been a long, slow, complicated process. Since I've been asked many times, here a curated list of my favorite resources:
 
 
 <ul class="resource-list">
