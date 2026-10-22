@@ -8,48 +8,27 @@ author_profile: false
 {% include base_path %}
 
 
-
-
 <style>
 /* Three columns: photos | text | photos. On narrow screens the text goes on top
    and the two photo columns sit side by side underneath. */
-.personal-grid { display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 24px; align-items: start; }
-.personal-col { min-width: 0; }
-.personal-grid img { display: block; width: 100%; height: auto; border-radius: 4px; margin-bottom: 16px; }
+.etc-grid { display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 24px; align-items: start; }
+.etc-col { min-width: 0; }
+.etc-grid img { display: block; width: 100%; height: auto; border-radius: 4px; margin-bottom: 16px; }
 /* Click-to-zoom photos */
-.personal-grid > .personal-col > img { cursor: zoom-in; }
+.etc-grid > .etc-col > img { cursor: zoom-in; }
 #lightbox { position: fixed; inset: 0; background: rgba(0,0,0,.85); display: none; align-items: center; justify-content: center; z-index: 9999; cursor: zoom-out; }
 #lightbox.on { display: flex; }
 #lightbox img { max-width: 94vw; max-height: 94vh; width: auto; height: auto; border-radius: 4px; }
 /* Resource list: small thumbnail instead of a bullet */
 .resource-list { list-style: none; padding: 0; margin: 0; }
 .resource-list li { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
-.personal-grid .resource-list img { width: 40px; height: 40px; object-fit: cover; margin: 0; border-radius: 6px; flex: none; }
+.etc-grid .resource-list img { width: 40px; height: 40px; object-fit: cover; margin: 0; border-radius: 6px; flex: none; }
 @media (max-width: 800px) {
-  .personal-grid { grid-template-columns: 1fr 1fr; }
-  .personal-center { grid-column: 1 / -1; order: -1; }
+  .etc-grid { grid-template-columns: 1fr 1fr; }
+  .etc-center { grid-column: 1 / -1; order: -1; }
 }
 </style>
 
-
-
-
-/*<style>
-/*/* Three columns: photos | text | photos. On narrow screens the text goes on top
-/*   and the two photo columns sit side by side underneath. */
-/*.etc-grid { display: grid; grid-template-columns: 1fr 2fr 1fr; gap: 24px; align-items: start; }
-/*.etc-col { min-width: 0; }
-/*.etc-grid img { display: block; width: 100%; height: auto; border-radius: 4px; margin-bottom: 16px; }
-/*/* Resource list: small thumbnail instead of a bullet */
-/*.resource-list { list-style: none; padding: 0; margin: 0; }
-/*.resource-list li { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
-/*.etc-grid .resource-list img { width: 40px; height: 40px; object-fit: cover; margin: 0; border-radius: 6px; flex: none; }
-/*@media (max-width: 800px) {
-/*  .etc-grid { grid-template-columns: 1fr 1fr; }
-/*  .etc-center { grid-column: 1 / -1; order: -1; }
-/*}
-/*</style>
-/*
 
 <div class="etc-grid">
 
@@ -77,6 +56,9 @@ In my free time, I love to run and hike, play soccer (very poorly), play with my
 I've been fortunate to live and work in many places throughout my life. Adventure and happenstance have played very important formative roles in my life. The photos here attempt to capture a few of the many meaningful moments.
 
 
+
+-----------------------
+
 ### Language learning
 
 I am also passionate about the mind-opening experience of language learning. I've learned Spanish, Japanese, French, Portuguese, and others, to varying degrees, at varying points in my life.
@@ -94,13 +76,13 @@ Japanese, in particular, has been a long, slow, complicated process. Since I've 
 
 
 <!-- Click-to-zoom: click a photo to enlarge it; click anywhere or press Esc to close.
-     Optional: add data-full="/images/personal/big-version.jpg" to an <img> to show a larger file when zoomed. -->
+     Optional: add data-full="/images/etc/big-version.jpg" to an <img> to show a larger file when zoomed. -->
 <div id="lightbox"><img alt=""></div>
 <script>
 (function () {
   var lb = document.getElementById('lightbox');
   var big = lb.querySelector('img');
-  document.querySelectorAll('.personal-grid > .personal-col > img').forEach(function (img) {
+  document.querySelectorAll('.etc-grid > .etc-col > img').forEach(function (img) {
     img.addEventListener('click', function () {
       big.src = img.getAttribute('data-full') || img.src;
       big.alt = img.alt;
