@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<h1 style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-weight: 700; color:#1ab042" align="center">Where of When Lab (<em>WoWLab</em>)</h1>
+<h1 style="font-family: 'Trebuchet MS', 'Lucida Grande', 'Lucida Sans Unicode', 'Lucida Sans', Tahoma, sans-serif; font-weight: 700; color:#1ab042" align="center">Where of When Lab (<em>WoW Lab</em>)</h1>
 
 
 ![lava lamp](images/SUPP_VID_1_scaled_NIRv_LSP_phenocycles_300dpi.gif)
