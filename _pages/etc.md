@@ -46,7 +46,7 @@ author_profile: false
 
 The rest of my life
 ======
-In my free time, I love to run and hike, play soccer (very poorly), play with my family, naturalize and birdwatch, read books, listen to music, cook, and generally explore and experience the world.
+In my free time, I love to run and hike, play soccer (very poorly), play with my family, naturalize and birdwatch, read books, listen to music, cook and eat, and generally explore and experience the world.
 
 I've been fortunate to live and work in many places throughout my life. Adventure and happenstance have played very important formative roles in my life. The photos here attempt to capture a few of the many meaningful moments.
 
