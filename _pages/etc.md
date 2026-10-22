@@ -39,11 +39,11 @@ author_profile: false
 <img src="/images/photos/water_tank_portrait.jpg" alt="water tank portrait; Oaxaca, MEX">
 <img src="/images/photos/space_needle_portrait.jpg" alt="space needle portrait; Seattle, WA, USA">
 <img src="/images/photos/diesel_fried_chicken.jpg" alt="disel fried chicken; somewhere in TX, USA">
-<img src="/images/photos/car_and_tree.jpg" alt="car and tree; somewhere in NIC">
-<img src="/images/photos/tacos_de_cabeza.jpg" alt="tacos de cabeza; Oaxaca, MEX">
 <img src="/images/photos/guitar_and_strings.png" alt="guitar and strings; Cadiz, ESP">
+<img src="/images/photos/tacos_de_cabeza.jpg" alt="tacos de cabeza; Oaxaca, MEX">
+<img src="/images/photos/car_and_tree.jpg" alt="car and tree; somewhere in NIC">
+<img src="/images/photos/self_portrait.jpg" alt="self portrait; Paris, FRA">
 <img src="/images/photos/rolling_still_life.jpg" alt="bike trip, still life; somewhere in PA, USA">
-<img src="/images/photos/self_portrait.jpg" alt="self portrait; Tucson, AZ, USA">
 </div>
 
 <!-- CENTER TEXT (markdown works in here) -->
